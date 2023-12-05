@@ -1,0 +1,12 @@
+{
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/languangtou/lanjingling/main/光头",
+            "name": "光头主线"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/languangtou/gtys/main/光头",
+            "name": "光头备用"
+        }
+    ]
+}
