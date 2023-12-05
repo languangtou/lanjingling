@@ -5,7 +5,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/guang.txt",
+      "url": "https://raw.githubusercontent.com/languangtou/gtys/main/guang.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
