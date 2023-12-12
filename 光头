@@ -147,6 +147,57 @@
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5UWFrsgwaYYVSsIJD3UWs7i4yk1XUNSIsT3IgxCP9qyzByO7ZnqW3G0tjmslTGNlCJx9KFpYWdSQ0BTcKTlG3CAclaw3AOm0fS9oLx2taGFrzpf9uSKPPIBwToF3pEZBvQOlHhoMMOnm4EsAMpVefSVfagul7fFS8qxdQvcqdulXNwxSXwVqwgY9fgGounx/txZHh9k8mqD6nFJaZH0GwpEpXmVLgQ=="
     },
+ {
+      "key": "NanGua",
+      "name": "东瓜┃影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "null$$$1"
+    },
+ {
+      "key": "csp_AucFox",
+      "name": "Auc┃Fox",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://小盒酷玩.fun:74/禁止贩卖",
+      "ext": "http://xn--yet226clhctt4b.fun:66/json/AucFox.json"
+    },
+ {
+      "key": "蝴蝶",
+      "name": "蝴蝶┃追剧",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
+    },
+  {
+      "key": "vip",
+      "name": "超前┃点播",
+      "type": 3,
+      "playerType": 1,
+      "api": "http://xn--yet226clhctt4b.fun:66/lib/drpy2.min.js",
+      "ext": "http://xn--yet226clhctt4b.fun:66/js/超前点播.js"
+    },
+ {
+      "key": "花海",
+      "name": "花海┃影视",
+      "api": "csp_AppYs",
+      "jar": "http://小盒酷玩.fun:67/禁止贩卖",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+    },
+ {
+      "key": "03",
+      "name": "零三┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://小盒酷玩.fun:74/禁止贩卖",
+      "playerType": "1",
+      "ext": "http://xn--yet226clhctt4b.fun:66/json/03.json"
+    },
       {
       "key": "淘片资源",
       "name": "淘片",
