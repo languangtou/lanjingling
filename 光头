@@ -25,7 +25,7 @@
     },
         {
       "key": "腾讯",
-      "name": "企鹅",
+      "name": "腾讯",
       "type": 3,
       "jar": "./jar/fan.jar",
       "api": "./lib/drpy1.min.js",
@@ -33,7 +33,7 @@
     },
     {
       "key": "爱奇异",
-      "name": "大果果",
+      "name": "爱奇艺",
       "type": 3,
       "jar": "./jar/fan.jar",
       "api": "./lib/drpy1.min.js",
@@ -41,7 +41,7 @@
     },
    {
       "key": "drpy_js_优酷",
-      "name": "酷酷",
+      "name": "优酷",
       "type": 3,
       "jar": "./jar/fan.jar",
       "api": "./lib/drpy1.min.js",
@@ -49,7 +49,7 @@
     },
     {
       "key": "drpy_js_360影视",
-      "name": "转圈[js]",
+      "name": "360[js]",
       "type": 3,
       "api": "./lib/drpy1.min.js",
       "ext": "./lib/360影视.js"
@@ -299,16 +299,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
-    },
-    {
-      "key": "南瓜",
-      "name": "南瓜┃App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "77",
